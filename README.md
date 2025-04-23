@@ -1,5 +1,10 @@
 # Sistema de Gestión de Biblioteca - Práctica de Testing
 
+![Java](https://img.shields.io/badge/Java-21-orange)
+![JUnit5](https://img.shields.io/badge/JUnit-5.9.2-green)
+![Mockito](https://img.shields.io/badge/Mockito-5.3.1-blue)
+![Maven](https://img.shields.io/badge/Maven-3.9.0-red)
+
 ## Tiempo Estimado y Recomendaciones
 - **Tiempo estimado de realización:** 15 horas
 - **Recomendación:** Se sugiere leer la consigna completa antes de comenzar con el desarrollo para tener una visión general del proyecto y planificar adecuadamente el trabajo.
